@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "mapbox-gl": "^2.9.1",
+    "react-map-gl": "^7.0.16"
+  }
+}
